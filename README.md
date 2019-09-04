@@ -1,3 +1,1 @@
-# MeetApp
-
-Unir pessoas em eventos.
+# GoStack-Modulo02
